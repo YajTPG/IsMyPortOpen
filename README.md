@@ -12,7 +12,7 @@ Usage:
 
 ## Download
 
-Head over to the Releases page to download the latest verison or use the commands below.
+Head over to the [Releases page](https://github.com/YajTPG/IsMyPortOpen/releases) to download the latest verison or use the commands below.
 
 ---
 
